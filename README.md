@@ -15,6 +15,7 @@ in the stations of BFP Region 8.
   Installing
    - Please install a Microsoft Access first
    - Download the installer @ https://github.com/NiCoArtz/BFP8-BusinessProfilingSystem
+   - Click the BFP8-BPS.msi installer and download it to your computer.
    - Click and follow the procedure in the installation package.
 
   Executing the Program
