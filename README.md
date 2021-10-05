@@ -8,7 +8,7 @@ in the stations of BFP Region 8.
 # Getting Started
 
   Dependencies
-   - Microsoft MS Access
+   - Microsoft MS Access 2010
    - Windows 7 or 10
    - atleast 4 GB RAM
 
