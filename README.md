@@ -8,7 +8,7 @@ in the stations of BFP Region 8.
 # Getting Started
 
   Dependencies
-   - Microsoft MS Access 2010 / 2019
+   - Microsoft MS Access 2010 or 2019 (2007 and 2016 seems to have problems encountered)
    - Windows 7 or 10
    - atleast 4 GB RAM
 
@@ -42,8 +42,7 @@ in the stations of BFP Region 8.
      - not capable of uploading bulk transactions   
      - database file is easy to be deleted, so back-up regulary
      - deleting all ADMIN account refreshes the system, so there must be atleast 1 ADMIN account
-     - resfreshes the system means, the next time you open the system it will go to "Station Initialization" procedure again and all data you saved will be deleted, except for the uploaded pdfs.
-     - 
+     - resfreshes the system means, the next time you open the system it will go to "Station Initialization" procedure again and all data you saved will be deleted, except for the uploaded pdf files.
 
 # HELP
 
@@ -52,11 +51,11 @@ in the stations of BFP Region 8.
 # AUTHORS
 
    - BFP Region 8 
-      - SSUPT RODOLFO P DENAGA, DSC
-      - SUPT RODRIGO A ALMADEN JR, DSC
+      - SSUPT RODOLFO P DENAGA, DSC - Regional Director
+      - SUPT RODRIGO A ALMADEN JR, DSC - DRD for Administration
       
    - BFP Region 8 - Fire Safety Enforcement Division
-      - INSP JOSELITO M MANOG
+      - INSP JOSELITO M MANOG 
       - SFO2 Alwin Baldevia
       - FO2 Glenn John O Sta Singh
 
