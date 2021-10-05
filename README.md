@@ -12,6 +12,11 @@ in the stations of BFP Region 8.
    - Windows 7 or 10
    - atleast 4 GB RAM
 
+# Built with
+   - VBA
+   - MS Access 2010 trial version
+   - Advance Installer 18.7 Free Version
+   
   Installing
    - Please install a Microsoft Access first
    - Download the installer @ https://github.com/NiCoArtz/BFP8-BusinessProfilingSystem/blob/main/BFP8-BPS.msi
