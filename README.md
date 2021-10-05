@@ -28,7 +28,7 @@ in the stations of BFP Region 8.
   Executing the Program
    - Initialization of Station
      - ENTER the your station name and unit code and save.
-     - CREATE and ADMIN account for the system.
+     - CREATE an ADMIN account for the system.
      - LOGIN using the credentials you created.
    - Capabilities
      - Creates users with roles 
