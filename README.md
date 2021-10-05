@@ -36,6 +36,14 @@ in the stations of BFP Region 8.
      - Uploads PDF files for archiving and easy retrieval later on.
      - Generates reports 
      - Logs all transactions made in the system for monitoring
+   - Cons
+     - not yet capable for LAN 
+     - reports are limited to a single parameter
+     - not capable of uploading bulk transactions   
+     - database file is easy to be deleted, so back-up regulary
+     - deleting all ADMIN account refreshes the system, so there must be atleast 1 ADMIN account
+     - resfreshes the system means, the next time you open the system it will go to "Station Initialization" procedure again and all data you saved will be deleted, except for the uploaded pdfs.
+     - 
 
 # HELP
 
