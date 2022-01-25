@@ -55,9 +55,10 @@ in the stations of BFP Region 8.
       - SUPT RODRIGO A ALMADEN JR, DSC - DRD for Administration
       
    - BFP Region 8 - Fire Safety Enforcement Division
-      - INSP JOSELITO M MANOG 
-      - SFO2 Alwin Baldevia
-      - FO2 Glenn John O Sta Singh
+      - INSP BENECIO C VIRTUDAZO
+      - INSP JOSELITO M MANOG (RET)
+      - SFO3 Alwin Baldevia
+      - FO3 Glenn John O Sta Singh
 
    - BFP Region 8 - ICT Unit
       - SFO2 Neil Adrian A Co
