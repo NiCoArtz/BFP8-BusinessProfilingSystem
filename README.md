@@ -60,12 +60,12 @@ in the stations of BFP Region 8.
       - FO2 Glenn John O Sta Singh
 
    - BFP Region 8 - ICT Unit
-      - SFO1 Neil Adrian A Co
-      - SFO1 Primo C Cortez Jr
+      - SFO2 Neil Adrian A Co
+      - SFO2 Primo C Cortez Jr
       - FO1 Mitz Jude D Banzon
 
    - Special Thanks to
-      - FO2 Dan Winston Santo
+      - FO3 Dan Winston Santo
 
 # VERSION HISTORY
 
